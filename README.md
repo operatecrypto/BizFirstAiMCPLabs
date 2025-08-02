@@ -21,3 +21,15 @@ The primary goal is to bridge theoretical models of multi-agent collaboration wi
 This project is ideal for AI researchers, C# developers, and system architects exploring decentralized AI, agent interoperability, and intelligent coordination frameworks.
 
 The project will provide nuget packages for anyone to accelarate development.
+
+
+**Team**
+Binoy Jose - AI Architect
+Namitha Jose - Tech Lead
+Benoy Varghese - Project Manager
+Akhil J - AI Programmer (LinkedIn - )
+Maha - AI Programmer
+Jennifer - AI Programmer
+
+
+
