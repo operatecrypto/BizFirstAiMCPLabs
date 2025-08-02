@@ -1,0 +1,70 @@
+8/2/2025 11:47:30 AM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: give me the list of products available
+Answer as helpfully as you can:
+
+8/2/2025 11:47:46 AM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: What is the average price of all products?
+Answer as helpfully as you can:
+
+8/2/2025 11:48:00 AM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: What is the average price of all products?
+Answer as helpfully as you can:
+
+8/2/2025 11:48:16 AM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: Which customer names start with the letter A?
+Answer as helpfully as you can:
+
+8/2/2025 12:11:32 PM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: what are the products available
+Answer as helpfully as you can:
+
+8/2/2025 12:12:01 PM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: What is the average price of all products?
+Answer as helpfully as you can:
+
+8/2/2025 12:12:22 PM: Here is the current database info:
+Customer: John Doe, Email: john@example.com
+Customer: Jane Smith, Email: jane@example.com
+Product: Laptop, Price: $799.99
+Product: Smartphone, Price: $499.99
+Product: Headphones, Price: $99.99
+
+Question: Which customer names start with the letter A?
+Answer as helpfully as you can:
+

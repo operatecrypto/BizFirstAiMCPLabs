@@ -1,0 +1,3 @@
+8/2/2025 12:12:25 PM: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at YourNamespace.Service.AiService.AskGeminiAsync(String prompt) in E:\Internship\MCP_server\MCP_server\Services\AiService.cs:line 44
