@@ -24,11 +24,11 @@ The project will provide nuget packages for anyone to accelarate development.
 
 
 **Team**
-Binoy Jose - AI Architect
-Namitha Jose - Tech Lead
-Benoy Varghese - Project Manager
-Akhil J - AI Programmer (LinkedIn - )
-Maha - AI Programmer
+Binoy Jose - AI Architect,
+Namitha Jose - Tech Lead,
+Benoy Varghese - Project Manager,
+Akhil J - AI Programmer (LinkedIn - ),
+Maha - AI Programmer,
 Jennifer - AI Programmer
 
 
