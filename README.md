@@ -1,9 +1,9 @@
 # BizFirstAiMCPLabs
 Exploring Multi-Agent Control in AI with Practical C# Applications
 
-BizFirstAiMCPLabs is a research-driven project focused on exploring the principles and real-world applications of Multi-Agent Control Protocol (MCP) within the field of Artificial Intelligence
+BizFirstAiMCPLabs is a research-driven project focused on exploring the principles and real-world applications of Model Context Protocol (MCP) within the field of Artificial Intelligence
 
-**BizFirstAiMCPLabs is a research-driven project focused on exploring the principles and real-world applications of Multi-Agent Control Protocol (MCP) within the field of Artificial Intelligence.** This project aims to understand, simulate, and demonstrate how autonomous AI agents can collaborate, delegate, and coordinate tasks using structured control mechanisms — with a fully functional demo developed in **C#**.
+**BizFirstAiMCPLabs is a research-driven project focused on exploring the principles and real-world applications of Model Context Protocol (MCP) within the field of Artificial Intelligence.** This project aims to understand, simulate, and demonstrate how autonomous AI agents can collaborate, delegate, and coordinate tasks using structured control mechanisms — with a fully functional demo developed in **C#**.
 
 Multi-agent systems are increasingly used in complex AI ecosystems such as robotics, distributed decision-making, simulation environments, and autonomous systems. However, seamless coordination between agents, conflict resolution, and decentralized task management remain open research challenges. MCPSharp investigates these issues by implementing an experimental **C# framework** that enables agents to communicate through well-defined protocols, delegate responsibilities, and dynamically form task networks.
 
